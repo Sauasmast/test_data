@@ -1,5 +1,5 @@
-{'Mode': 'GPS',
- 'GPSReadFrequency': 10,
- 'GPSSendFrequency': 600, 
- 'SendInitialPosition': 'True'
+{"Mode": "GPS",
+ "GPSReadFrequency": 10,
+ "GPSSendFrequency": 600, 
+ "SendInitialPosition": "True"
 }
