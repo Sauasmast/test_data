@@ -1,7 +1,7 @@
 {"Mode": "GPS",
  "PortReadFrequency":3,
  "GPSReadFrequency": 20,
- "GPSSendFrequency": 300,
+ "GPSSendFrequency": 200,
  "ConfigFileReadFrequency": 240
  "SendInitialPosition": "True"
 }
