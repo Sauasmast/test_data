@@ -1,5 +1,7 @@
-{"Mode": "Altitude",
- "GPSReadFrequency": 100,
- "GPSSendFrequency": 600, 
+{"Mode": "GPS",
+ "PortReadFrequency":3,
+ "GPSReadFrequency": 20,
+ "GPSSendFrequency": 300,
+ "ConfigFileReadFrequency": 240
  "SendInitialPosition": "True"
 }
