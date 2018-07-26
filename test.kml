@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_1">
+        <Placemark id="feat_2">
+            <name>Erik Dykema</name>
+            <visibility>true</visibility>
+            <description/>
+            2018-06-01 15:42:00
+            <Point id="geom_0">
+                <coordinates>-74.281546,40.834165,118</coordinates>
+                <extrude>1</extrude>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3">
+            <name>Erik Dykema</name>
+            <visibility>true</visibility>
+            <description/>
+            2018-06-01 15:45:45
+            <Point id="geom_1">
+                <coordinates>-74.279766,40.834271,131</coordinates>
+                <extrude>1</extrude>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4">
+            <name>Erik Dykema</name>
+            <visibility>true</visibility>
+            <description/>
+            2018-06-01 16:40:00
+            <Point id="geom_2">
+                <coordinates>-74.281483,40.834186,124</coordinates>
+                <extrude>1</extrude>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5">
+            <name>Erik Dykema</name>
+            <visibility>true</visibility>
+            <description/>
+            2018-06-01 16:50:00
+            <Point id="geom_3">
+                <coordinates>-74.283328,40.832941,127</coordinates>
+                <extrude>1</extrude>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6">
+            <name>Erik Dykema</name>
+            <visibility>true</visibility>
+            <description/>
+            2018-06-01 17:00:00
+            <Point id="geom_4">
+                <coordinates>-74.283391,40.832985,124</coordinates>
+                <extrude>1</extrude>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_7">
+            <name>Erik Dykema</name>
+            <visibility>true</visibility>
+            <description/>
+            2018-06-01 17:18:00
+            <Point id="geom_5">
+                <coordinates>-74.282276,40.833306,122</coordinates>
+                <extrude>1</extrude>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_8">
+            <name>A LineString</name>
+            <LineString id="geom_6">
+                <coordinates>-74.281546,40.834165,118 -74.279766,40.834271,131 -74.281483,40.834186,124 -74.283328,40.832941,127 -74.283391,40.832985,124 -74.282276,40.833306,122</coordinates>
+                <extrude>0</extrude>
+            </LineString>
+        </Placemark>
+    </Document>
+</kml>
